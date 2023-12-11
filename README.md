@@ -1,13 +1,13 @@
 # Local Network GroupChat Application
-Final Project for Humber College's CPAN-226 Networking & Telecommunication class
-Implements multithreading, database functionality with SQLITE3 with basic encryption of messages stored on the database, and GUI using Tkinter.
+Final Project for Humber College's CPAN-226 Networking & Telecommunication class.
+
+Implements multithreading, database functionality with Sqlite3 with basic encryption of messages stored on the database, and GUI using Tkinter.
 
 Users enter a nickname
-
 <p align="center">
   <img width="460" height="300" src="https://github.com/IshoZaia/GroupChat/assets/101903708/218b59a5-a4be-47ab-82e9-db11b57fe71e">
 </p>
-And as users join, A message appears showing who has joined the chat, once joined they are ready to communicate!
+And as users join, a message appears showing who has joined the chat, once joined they are ready to communicate!
 <p align="center">
   <img width="460" height="300" src="https://github.com/IshoZaia/GroupChat/assets/101903708/56fa9906-39ad-4796-b68f-655f853684d0">
 </p>
