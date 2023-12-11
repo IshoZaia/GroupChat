@@ -1,4 +1,4 @@
-# GroupChat
+# GroupChat Application
 Final Project for Humber College's CPAN-226 Networking & Telecommunication class
 Implements multithreading, database functionality with SQLITE3 with basic encryption of messages stored on the database, and GUI using Tkinter.
 
